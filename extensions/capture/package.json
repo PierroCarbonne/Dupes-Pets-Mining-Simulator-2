@@ -1,0 +1,41 @@
+{
+  "_args": [
+    [
+      "@capture/capture-extension@1.2.18",
+      "/apps/jenkins/2.263.4/workspace/CCLibrariesPanel_release_3.14"
+    ]
+  ],
+  "_from": "@capture/capture-extension@1.2.18",
+  "_id": "@capture/capture-extension@1.2.18",
+  "_inBundle": false,
+  "_integrity": "sha1-fdbCn+bbVvvnP2dkXgLCH1j3zyU=",
+  "_location": "/@capture/capture-extension",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@capture/capture-extension@1.2.18",
+    "name": "@capture/capture-extension",
+    "escapedName": "@capture%2fcapture-extension",
+    "scope": "@capture",
+    "rawSpec": "1.2.18",
+    "saveSpec": null,
+    "fetchSpec": "1.2.18"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/@capture/capture-extension/-/@capture/capture-extension-1.2.18.tgz",
+  "_spec": "1.2.18",
+  "_where": "/apps/jenkins/2.263.4/workspace/CCLibrariesPanel_release_3.14",
+  "author": "",
+  "description": "Capture Extension",
+  "license": "ISC",
+  "main": "capture_main.js",
+  "name": "@capture/capture-extension",
+  "repository": {
+    "type": "git",
+    "url": "git@git.corp.adobe.com:CCE-Inspiration/capture-panel.git"
+  },
+  "version": "1.2.18"
+}
